@@ -25,4 +25,7 @@ describe "FizzBuzz" do
     expect(fizz_buzz(6)).to eq "Fizz"
   end
   
+  it "given 50 returns Buzz" do
+    expect(fizz_buzz(50)).to eq "Buzz"
+  end
 end
