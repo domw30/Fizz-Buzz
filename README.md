@@ -1,4 +1,7 @@
 # Fizz-Buzz
+
+(Practice TDD Exercise)
+
 The goal of Fizzbuzz is to introduce you to Test Driven Development (TDD) 
 and Pair Programming.
 
