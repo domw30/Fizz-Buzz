@@ -1,3 +1,6 @@
-def fizzbuzz(number)
-    "fizz"
-end
+def fizz_buzz(number)
+     if number == 3
+         return "Fizz"
+     end
+     number
+end 
